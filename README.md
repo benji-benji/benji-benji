@@ -8,7 +8,7 @@ I recently completed an MSc in Data Science at Birkbeck, University of London. I
 
 ### MSc thesis
 
-[**Model Editing: Capacities and Limits**](https://github.com/benji-benji/BBK-model-editing-final-report) — Birkbeck, 2026. Do model-editing methods change what a language model knows, or only what it recalls? Six editing methods (ROME, MEMIT, AlphaEdit, AnyEdit, GRACE, REMEDI) implemented from scratch under one evaluation harness on GPT-2-XL and LLaMA-3-8B, plus GENIE, a benchmark that tests whether an edit is used rather than just recalled.
+[**Model Editing: Capacities and Limits**](https://github.com/benji-benji/BBK-model-editing-final-report) — Birkbeck, 2026. Do model-editing methods change what a language model knows, or only what it recalls? Six editing methods (ROME, MEMIT, AlphaEdit, AnyEdit, GRACE, REMEDI) implemented from scratch under one evaluation harness on GPT-2-XL and LLaMA-3-8B, plus a custom benchmark GENIE, that tests whether an edit is used rather than just recalled.
 
 ### Projects
 
