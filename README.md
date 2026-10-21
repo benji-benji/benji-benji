@@ -12,4 +12,5 @@ I recently completed an MSc in Data Science at Birkbeck, University of London. I
 
 ### Projects
 
+- [**genie-benchmark**](https://github.com/benji-benji/genie-benchmark) — GENIE, a 7,340-case benchmark built from Wikidata that tests whether an edited model uses a new fact, not just recalls it
 - [**two-tower-retrieval**](https://github.com/benji-benji/two-tower-retrieval) — search over MS MARCO passages with separate query and document towers on frozen GloVe vectors, trained with a triplet loss
